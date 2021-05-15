@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "playback",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "quizRansac::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quizRansac-Debug-6ee44991b4f39706dbb8.json",
+					"name" : "quizRansac",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zaragesh/develop/sensorFusion/SFND_Lidar_Obstacle_Detection-master/src/quiz/ransac/build",
+		"source" : "/home/zaragesh/develop/sensorFusion/SFND_Lidar_Obstacle_Detection-master/src/quiz/ransac"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
